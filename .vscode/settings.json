@@ -4,6 +4,10 @@
     "algorithm": "cpp",
     "tuple": "cpp",
     "type_traits": "cpp",
-    "utility": "cpp"
-  }
+    "utility": "cpp",
+    "iterator": "cpp",
+    "iosfwd": "cpp",
+    "vector": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
 }
